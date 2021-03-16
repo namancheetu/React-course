@@ -1,0 +1,24 @@
+{
+  "name": "react_course",
+  "version": "1.0.0",
+  "description": "this is test repository for learning react ",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namancheetu/React-course.git"
+  },
+  "author": "naman cheetu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namancheetu/React-course/issues"
+  },
+  "homepage": "https://github.com/namancheetu/React-course#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
